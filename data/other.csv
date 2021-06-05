@@ -1,4 +1,63 @@
 name,source,gender,wikidata,type
+"Via Alessandria - Alessandriastraße",wikidata,,Q6088,way
+"Via Amba Alagi - Amba-Alagi-Straße",wikidata,,Q456557,way
+"Via Aosta - Aostastraße",wikidata,,Q3367,way
+"Via Arezzo - Arezzostraße",wikidata,,Q13378,way
+"Via Bari - Baristraße",wikidata,,Q3519,way
+"Via Barletta - Barlettastraße",wikidata,,Q13470,way
+"Via Bassano del Grappa - Bassano-Del-Grappa-Straße",wikidata,,Q47094,way
+"Via Bergamo - Bergamostraße",wikidata,,Q628,way
+"Via Cagliari - Cagliaristraße",wikidata,,Q1897,way
+"Via Capri - Capristraße",wikidata,,Q71902,way
+"Via Castel Flavon - Küepachweg",wikidata,,Q1588255,way
+"Via Castel Mareccio - Maretschgasse",wikidata,,Q460931,way
+"Via Castel Roncolo - Runkelsteiner Straße",wikidata,,Q376571,way
+"Via Castel Weinegg - Weineggstraße",wikidata,,Q1014519,way
+"Via Catinaccio - Rosengartenstraße",wikidata,,Q2167183,way
+"Via Claudia Augusta - Claudia-Augusta-Straße",wikidata,,Q685132,relation+way
+"Via Col di Lana - Col di Lana Straße",wikidata,,Q428308,way
+"Via Dalmazia - Dalmatienstraße",wikidata,,Q528042,way
+"Via Esperanto - Esperantostraße",wikidata,,Q143,way
+"Via Firenze - Florenzerstraße",wikidata,,Q2044,way
+"Via Firenze - Florenzstraße",wikidata,,Q2044,way
+"Via Fiume - Fiumestraße",wikidata,,Q1647,way
+"Via Genova - Genuastraße",wikidata,,Q1449,way
+"Via Gorizia - Görzer Straße",wikidata,,Q6596,way
+"Via Latemar - Latemarstraße",wikidata,,Q174610,way
+"Via Milano - Mailandstraße",wikidata,,Q490,way
+"Via Montecassino - Montecassinostraße",wikidata,,Q334051,way
+"Via Montello - Montellostraße",wikidata,,Q2902517,way
+"Via Napoli - Neapelstraße",wikidata,,Q2634,way
+"Via Novacella - Neustifterweg",wikidata,,Q385925,way
+"Via Ortles - Ortlerstraße",wikidata,,Q650695,way
+"Via Palermo - Palermostraße",wikidata,,Q2656,way
+"Via Parma - Parmastraße",wikidata,,Q2683,way
+"Via Piacenza - Piacenzastraße",wikidata,,Q13329,way
+"Via Pola - Polastraße",wikidata,,Q4656,way
+"Via Positano - Positanostraße",wikidata,,Q81345,way
+"Via Riva del Garda - Riva-Del-Garda-Straße",wikidata,,Q194136,way
+"Via Rodi - Rhodosstraße",wikidata,,Q43048,way
+"Via Roen - Roenstraße",wikidata,,Q913922,way
+"Via Roma - Romstraße",wikidata,,Q220,relation+way
+"Via Rovereto - Roveretostraße",wikidata,,Q279373,way
+"Via Rovigo - Rovigostraße",wikidata,,Q6572,way
+"Via Sassari - Sassaristraße",wikidata,,Q13629,way
+"Via Sciliar - Schlernstraße",wikidata,,Q1728342,way
+"Via Similaun - Similaunstraße",wikidata,,Q697937,way
+"Via Sorrento - Sorrentstraße",wikidata,,Q72672,way
+"Via Torino - Turinstraße",wikidata,,Q495,way
+"Via Trento - Trienter Straße",wikidata,,Q3376,way
+"Via Treviso - Trevisostraße",wikidata,,Q5475,way
+"Via Tripoli - Tripolisstraße",wikidata,,Q3579,way
+"Via Udine - Udinestraße",wikidata,,Q2790,way
+"Via Valdagno - Valdagnostraße",wikidata,,Q47251,way
+"Via Verona - Veronastraße",wikidata,,Q2028,way
+"Via Vicenza - Vicenzastraße",wikidata,,Q6537,way
+"Via Vittorio Veneto - Vittorio-Veneto-Straße",wikidata,,Q47578,way
+"Via Zara - Zarastraße",wikidata,,Q3370,way
+"Via della Zecca - Münzbankweg",wikidata,,Q464780,way
+"Viale Trieste - Triester Straße",wikidata,,Q546,way
+"Viale Venezia - Venediger Straße",wikidata,,Q641,way
 1,,,,way
 "1 B",,,,way
 1A,,,,way
@@ -169,49 +228,30 @@ Traubengang,,,,way
 "Valle del Lupo - Monte Cervo - Wolftal - Hirschenkopf",,,,way
 "Valle dello Stagno - Weihertal",,,,way
 "Vecchio sentiero del Colle - Alter Kohlererweg",,,,way
-"Via Ada Buffulini - Ada-Buffulini-Straße",,,,way
 "Via Aeroporto Francesco Baracca - Flughafen-Francesco-Baracca-Straße",,,,way
 "Via Agruzzo - Grutzenweg",,,,way
 "Via Albin Egger Lienz - Albuin-Egger-Lienz-Straße",,,,way
-"Via Alessandria - Alessandriastraße",,,,way
 "Via Alto Adige - Südtiroler Straße",,,,way
 "Via Amalfi - Amalfistraße",,,,way
-"Via Amba Alagi - Amba-Alagi-Straße",,,,way
 "Via Anna Ruedl Zagler - Anna-Ruedl-Zagler-Straße",,,,way
 "Via Antonio Meucci - Antonio-Meucci-Straße",,,,way
 "Via Antonio Rosmini - Antonio-Rosmini-Straße",,,,way
-"Via Aosta - Aostastraße",,,,way
-"Via Arezzo - Arezzostraße",,,,way
 "Via Argentieri - Silbergasse",,,,way
 "Via Aslago - Haslacher Straße",,,,way
-"Via Bari - Baristraße",,,,way
-"Via Barletta - Barlettastraße",,,,way
-"Via Bassano del Grappa - Bassano-Del-Grappa-Straße",,,,way
-"Via Bergamo - Bergamostraße",,,,way
 "Via Bivio - Kaiserau",,,,way
 "Via Brennero - Brennerstraße",,,,way
 "Via Cadorna - Cadornastraße",,,,way
-"Via Cagliari - Cagliaristraße",,,,way
 "Via Campegno - Kampenner Weg",,,,way
 "Via Campofranco - Campofrancostraße",,,,way
 "Via Camponuovo - Neufeldweg",,,,way
 "Via Camporoda - Rodlauweg",,,,way
-"Via Capri - Capristraße",,,,way
 "Via Cassa di Risparmio - Sparkassenstraße",,,,way
 "Via Castel Firmiano - Sigmundskroner Straße",,,,way
-"Via Castel Flavon - Küepachweg",,,,way
 "Via Castel Greifenstein - Greifensteiner Weg",,,,way
-"Via Castel Mareccio - Maretschgasse",,,,way
-"Via Castel Roncolo - Runkelsteiner Straße",,,,way
-"Via Castel Weinegg - Weineggstraße",,,,way
-"Via Catinaccio - Rosengartenstraße",,,,way
 "Via Chiaro di Luna",,,,way
-"Via Claudia Augusta - Claudia-Augusta-Straße",,,,relation+way
-"Via Col di Lana - Col di Lana Straße",,,,way
 "Via Cologna - Glaninger Weg",,,,way
 "Via Cologna - Glaningerweg",,,,way
 "Via Crispi - Crispistraße",,,,way
-"Via Dalmazia - Dalmatienstraße",,,,way
 "Via Damiano Chiesa - Damiano-Chiesa-Straße",,,,way
 "Via Delai - Delai-Straße",,,,way
 "Via Dodiciville (privata) - Zwölfmalgreiner Straße (privat)",,,,way
@@ -223,22 +263,16 @@ Traubengang,,,,way
 "Via Eisenkeller - Eisenkellerweg",,,,way
 "Via Enrico Mattei - Enrico-Mattei-Straße",,,,way
 "Via Enzo Ferrari - Enzo Ferrari Straße",,,,way
-"Via Esperanto - Esperantostraße",,,,way
 "Via Eugen Müller - Eugen-Müller-Straße",,,,way
 "Via Fago - Fagenstraße",,,,way
-"Via Firenze - Florenzerstraße",,,,way
-"Via Firenze - Florenzstraße",,,,way
-"Via Fiume - Fiumestraße",,,,way
 "Via Fratelli Bronzetti - Brüder-Bronzetti-Straße",,,,way
 "Via Galileo Galilei",,,,way
 "Via Galvani - Galvani Straße",,,,way
 "Via Gebert-Deeg",,,,way
-"Via Genova - Genuastraße",,,,way
 "Via Giannantonio Manci - Giannantonio-Manci-Straße",,,,way
 "Via Gianni Brida - Gianni-Brida-Straße",,,,way
 "Via Giuseppe Cesare Abba - Giuseppe-Cesare-Abba-Straße",,,,way
 "Via Glorenza - Glurnser Straße",,,,way
-"Via Gorizia - Görzer Straße",,,,way
 "Via Guncina - Guntschnastraße",,,,way
 "Via Hermann Von Gilm - Hermann-Von-Gilm-Straße",,,,way
 "Via Hildegard Straub - Hildegard-Straub-Straße",,,,way
@@ -247,7 +281,6 @@ Traubengang,,,,way
 "Via Ischia - Ischiastraße",,,,way
 "Via Johann Wolfgang Von Goethe - Johann-Wolfgang-Von-Goethe-Straße",,,,way
 "Via Josef Mayr Nusser - Josef-Mayr-Nusser-Straße",,,,way
-"Via Latemar - Latemarstraße",,,,way
 "Via Laurin - Laurinstraße",,,,way
 "Via Leonardo da Vinci - Leonardo-da-Vinci-Straße",,,,way
 "Via Lorenz Böhler - Lorenz-Böhler-Straße",,,,way
@@ -259,23 +292,14 @@ Traubengang,,,,way
 "Via Masi - Höfestraße",,,,way
 "Via Maso della Pieve - Pfarrhofstraße",,,,way
 "Via Merano - Meraner Straße",,,,way
-"Via Milano - Mailandstraße",,,,way
 "Via Miramonti - Reichrieglerweg",,,,way
 "Via Molini - Mühlgasse",,,,way
 "Via Monte Tondo - Hörtenbergstraße",,,,way
-"Via Montecassino - Montecassinostraße",,,,way
-"Via Montello - Montellostraße",,,,way
 "Via Museo - Museumstraße",,,,way
-"Via Napoli - Neapelstraße",,,,way
-"Via Novacella - Neustifterweg",,,,way
 "Via Oltradige - Überetscher Straße",,,,way
-"Via Ortles - Ortlerstraße",,,,way
 "Via Ospedale - Spitalgasse",,,,way
-"Via Palermo - Palermostraße",,,,way
-"Via Parma - Parmastraße",,,,way
 "Via Penegal - Penegalstraße",,,,way
 "Via Pfannenstiel - Pfannenstielweg",,,,way
-"Via Piacenza - Piacenzastraße",,,,way
 "Via Piani D'Isarco - Leegtorweg",,,,way
 "Via Piani di Bolzano - Bozner-Boden-Straße",,,,way
 "Via Piani di Bolzano - Bozner-Boden-Weg",,,,way
@@ -283,8 +307,6 @@ Traubengang,,,,way
 "Via Piero Agostini - Piero-Agostini-Straße",,,,way
 "Via Pietralba - Weißensteiner Straße",,,,way
 "Via Pietralba - Weißensteiner Weg",,,,way
-"Via Pola - Polastraße",,,,way
-"Via Positano - Positanostraße",,,,way
 "Via Rafenstein - Rafensteiner Weg",,,,way
 "Via Raffaello Sernesi - Raffaello-Sernesi-Straße",,,,way
 "Via Raiffeisen - Raiffeisenstraße",,,,way
@@ -293,14 +315,8 @@ Traubengang,,,,way
 "Via Resia",,,,way
 "Via Resia - Reschenstraße",,,,relation+way
 "Via Rio Molino - Mühlbachpromenade",,,,way
-"Via Riva del Garda - Riva-Del-Garda-Straße",,,,way
 "Via Rivellone - Rivelaunweg",,,,way
-"Via Rodi - Rhodosstraße",,,,way
-"Via Roen - Roenstraße",,,,way
-"Via Roma - Romstraße",,,,relation+way
 "Via Rottenbuch - Rottenbuchweg",,,,way
-"Via Rovereto - Roveretostraße",,,,way
-"Via Rovigo - Rovigostraße",,,,way
 "Via San Genesio - Jenesier Weg",,,,way
 "Via San Giacomo - St. Jakobstraße",,,,way
 "Via San Giorgio - St.-Georgen-Straße",,,,way
@@ -312,32 +328,18 @@ Traubengang,,,,way
 "Via Sant'Antonio - Sankt-Anton-Straße",,,,way
 "Via Santa Giustina - St.-Justina-Straße",,,,way
 "Via Sarentino - Sarntaler Straße",,,,way
-"Via Sassari - Sassaristraße",,,,way
-"Via Sciliar - Schlernstraße",,,,way
 "Via Sigismund Schwarz - Sigismund-Schwarz-Straße",,,,way
 "Via Sigmund Schwarz - Sigmund-Schwarz-Straße",,,,way
-"Via Similaun - Similaunstraße",,,,way
 "Via Sopron - Ödenburger Straße",,,,way
-"Via Sorrento - Sorrentstraße",,,,way
 "Via Talvera - Talfergasse",,,,way
-"Via Torino - Turinstraße",,,,way
 "Via Torquato Taramelli - Torquato-Taramelli-Straße",,,,way
 "Via Tre Santi - Dreiheiligengasse",,,,way
 "Via Trento",,,,way
-"Via Trento - Trienter Straße",,,,way
-"Via Treviso - Trevisostraße",,,,way
-"Via Tripoli - Tripolisstraße",,,,way
-"Via Udine - Udinestraße",,,,way
 "Via Val d'Ega - Eggentaler Straße",,,,way
-"Via Valdagno - Valdagnostraße",,,,way
-"Via Verona - Veronastraße",,,,way
-"Via Vicenza - Vicenzastraße",,,,way
 "Via Vintler - Vintlerstraße",,,,way
-"Via Vittorio Veneto - Vittorio-Veneto-Straße",,,,way
 "Via Weggenstein - Weggensteinstraße",,,,way
 "Via Wendelstein - Wendelsteinstraße",,,,way
 "Via Wolkenstein - Wolkensteingasse",,,,way
-"Via Zara - Zarastraße",,,,way
 "Via al Boschetto - Hainweg",,,,way
 "Via al Colle - Kohlern",,,,way
 "Via degli Artigiani - Handwerkerstraße",,,,way
@@ -366,14 +368,11 @@ Traubengang,,,,way
 "Via della Torre - Gscheibter-Turm-Weg",,,,way
 "Via della Vigna - Weingartenweg",,,,way
 "Via della Visitazione - Mariaheimweg",,,,way
-"Via della Zecca - Münzbankweg",,,,way
 "Via delle Fucine - Schmiedgasse",,,,way
 "Via delle Marcelline - Marcellinenstraße",,,,way
 "Via di Mezzo Ai Piani - Bozner-Boden-Mitterweg",,,,way
 "Viale Druso - Drususallee",,,,relation+way
 "Viale Europa - Europaallee",,,,way
-"Viale Trieste - Triester Straße",,,,way
-"Viale Venezia - Venediger Straße",,,,way
 "Viale della Stazione - Bahnhofsallee",,,,way
 "Vicolo Ca' De Bezzi - Batzenhäuslgasse",,,,way
 "Vicolo Gumer - Gumergasse",,,,way
